@@ -9,6 +9,7 @@ class Scraper:
 	def __init__ (self, site):
 		self.site = site
 
+	headlines = []
 	def scrape(self):
 		r = urllib.request.urlopen(self.site)
 		html = r.read()
@@ -22,10 +23,13 @@ class Scraper:
 				continue
 			if 'story' in url:
 				print('\n' + url)
+				self.headlines.append(url[7:-9])
+
+		return self.headlines
 
 news = 'https://news.sky.com'
 
-Scraper(news).scrape()
+headlines = Scraper(news).scrape()
 
 
 
