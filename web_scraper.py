@@ -9,8 +9,9 @@ class Scraper:
 	def __init__ (self, site):
 		self.site = site
 
-	headlines = []
+	
 	def scrape(self):
+		headlines = []
 		r = urllib.request.urlopen(self.site)
 		html = r.read()
 		parser = 'html.parser'
@@ -18,14 +19,12 @@ class Scraper:
 
 		for tag in sp.find_all('a'):
 			url = tag.get('href')
-		
-			if url is None:
-				continue
-			if 'story' in url:
-				print('\n' + url)
-				self.headlines.append(url[7:-9])
 
-		return self.headlines
+			if 'story' in url:
+				print(url[7:-9].replace('-',' ') + '\n')
+				headlines.append(url[7:-9].replace('-', ' '))
+
+		return headlines
 
 news = 'https://news.sky.com'
 
