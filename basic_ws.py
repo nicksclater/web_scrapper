@@ -8,7 +8,7 @@ sauce = urllib.request.urlopen('https://bbc.co.uk').read()
 
 print('\n')
 
-soup = bs.BeautifulSoup(sauce, 'lxml')
+soup = bs.BeautifulSoup(sauce, 'html.parser') # or 'lxml'
 # print(soup)
 
 # print(soup.find_all('a'))
