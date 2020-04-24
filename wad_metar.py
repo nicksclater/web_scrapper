@@ -1,10 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 24 15:17:01 2020
+#! /usr/local/bin/python3
 
-@author: nicksclater1
-"""
 
 import bs4
 import  urllib.request
@@ -15,7 +10,7 @@ sauce = urllib.request.urlopen(source).read()
 
 soup = bs4.BeautifulSoup(sauce, 'html.parser')
 table = soup.table
-# print(table)
+print(table)
 
 table_row = table.find_all('tr')
 
