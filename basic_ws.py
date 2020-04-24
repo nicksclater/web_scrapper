@@ -8,13 +8,30 @@ sauce = urllib.request.urlopen('https://bbc.co.uk').read()
 
 print('\n')
 
-soup = bs.BeautifulSoup(sauce, 'html.parser') # or 'lxml'
-# print(soup)
+# soup = bs.BeautifulSoup(sauce, 'html.parser') # or 'lxml'
+# for url in soup.find_all('a'):
+#   print(url.get('href'))
 
-# print(soup.find_all('a'))
+soup = bs.BeautifulSoup(sauce,'lxml')
 
-for url in soup.find_all('a'):
-  print(url.get('href'))
+
+nav = soup.nav
+body = soup.body
+para = soup.a
+
+print(soup.nav.prettify())
+
+
+
+sections = [nav, body]
+
+# for section in sections:
+#   print('------------')
+#   for url in section.find_all('a'):
+#     print(url.get('href'))
+#   print('\n')
+
+
 
 
 
