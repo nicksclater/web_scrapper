@@ -26,13 +26,11 @@ table_row = table.find_all('tr')
 for tr in table_row:
   td = tr.find_all('td')
 
-  td = [i for i in td]
-  fh.writelines(str(td))
-  fh.writelines('\n')
-  print(list(td))
-  print('\n')
-
-fh.close()
+  # td = [i for i in td]
+  # fh.writelines(str(td))
+  # fh.writelines('\n')
+  # print(list(td))
+  # print('\n')
 
 
 
@@ -44,6 +42,31 @@ fh.close()
 # for td in table_data:
 #   print(td)
 #   print('\n')
+
+dfs = pd.read_html(source)
+# print(dfs)
+eng = dfs[0] # dataframe
+# print(eng)
+
+cols = eng.columns
+
+for i in range(len(eng)):
+  fh.writelines(str([j for j in eng.loc[i].values]).
+                replace('[','').replace(']','').replace("'",""))
+  fh.writelines('\n')
+
+fh.close()
+
+
+
+
+
+
+
+
+
+
+
 
 
 
