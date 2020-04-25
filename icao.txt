@@ -1,0 +1,396 @@
+[]
+[]
+[<td><a href="/wiki/Brackley" title="Brackley">Brackley</a></td>, <td><a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/Hinton-in-the-Hedges_Airfield" title="Hinton-in-the-Hedges Airfield">Hinton-in-the-Hedges Airfield</a></td>, <td>Private</td>, <td> </td>, <td>Tarmac
+</td>]
+[<td><a href="/wiki/Brackley" title="Brackley">Brackley</a></td>, <td><a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a></td>, <td>EGBT</td>, <td> </td>, <td><i><a href="/wiki/Turweston_Aerodrome" title="Turweston Aerodrome">Turweston Aerodrome</a></i></td>, <td>Public</td>, <td>3,002</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Bruntingthorpe" title="Bruntingthorpe">Bruntingthorpe</a></td>, <td><a href="/wiki/Leicestershire" title="Leicestershire">Leicestershire</a></td>, <td>EG74</td>, <td>LHB</td>, <td><a href="/wiki/Bruntingthorpe_Aerodrome" title="Bruntingthorpe Aerodrome">Bruntingthorpe Aerodrome</a></td>, <td>Private</td>, <td>9,842</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Castle_Donington" title="Castle Donington">Castle Donington</a></td>, <td><a href="/wiki/Leicestershire" title="Leicestershire">Leicestershire</a></td>, <td>EGNX</td>, <td>EMA</td>, <td><i><b><a href="/wiki/East_Midlands_Airport" title="East Midlands Airport">East Midlands Airport</a></b></i></td>, <td>Public</td>, <td>9,491</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Coningsby" title="Coningsby">Coningsby</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGXC</td>, <td>QCY</td>, <td><a href="/wiki/RAF_Coningsby" title="RAF Coningsby">RAF Coningsby</a></td>, <td>Military</td>, <td>9,003</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Cranwell" title="Cranwell">Cranwell</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGYD</td>, <td> </td>, <td><a href="/wiki/RAF_Cranwell" title="RAF Cranwell">RAF Cranwell</a></td>, <td>Military</td>, <td>6,831</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Derby" title="Derby">Derby</a></td>, <td><a href="/wiki/Derbyshire" title="Derbyshire">Derbyshire</a></td>, <td>EGBD</td>, <td> </td>, <td><i><a href="/wiki/Derby_Airfield" title="Derby Airfield">Derby Airfield</a></i></td>, <td>Public</td>, <td>1,975</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Grantham" title="Grantham">Grantham</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGYE</td>, <td> </td>, <td><a href="/wiki/RAF_Barkston_Heath" title="RAF Barkston Heath">RAF Barkston Heath</a></td>, <td>Military</td>, <td>6,007</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Kettering" title="Kettering">Kettering</a></td>, <td><a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/RAF_Deenethorpe" title="RAF Deenethorpe">Deenethorpe Aerodrome</a></td>, <td>Private</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Leicester" title="Leicester">Leicester</a></td>, <td><a href="/wiki/Leicestershire" title="Leicestershire">Leicestershire</a></td>, <td>EGBG</td>, <td>LRC</td>, <td><i><a href="/wiki/Leicester_Airport" title="Leicester Airport">Leicester Airport</a></i></td>, <td>Public</td>, <td>3,084</td>, <td>Asphalt
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Lincoln,_Lincolnshire" title="Lincoln, Lincolnshire">Lincoln</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGCS</td>, <td> </td>, <td><a href="/wiki/Sturgate_Airfield" title="Sturgate Airfield">Sturgate Airfield</a></td>, <td>Public</td>, <td>2,690</td>, <td>Paved
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Lincoln,_Lincolnshire" title="Lincoln, Lincolnshire">Lincoln</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGNW</td>, <td> </td>, <td><i><a href="/wiki/Wickenby_Aerodrome" title="Wickenby Aerodrome">Wickenby Aerodrome</a></i></td>, <td>Public</td>, <td>1,739</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Newark-on-Trent" title="Newark-on-Trent">Newark-on-Trent</a></td>, <td><a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a></td>, <td>EGXY</td>, <td> </td>, <td><a href="/wiki/RAF_Syerston" title="RAF Syerston">RAF Syerston</a></td>, <td>Military</td>, <td>5,994</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Retford" title="Retford">Retford</a></td>, <td><a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a></td>, <td>EGNE</td>, <td> </td>, <td><i><a class="mw-redirect" href="/wiki/Gamston_Airport" title="Gamston Airport">Gamston Airport</a></i></td>, <td>Public</td>, <td>5,522</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Scampton" title="Scampton">Scampton</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGXP</td>, <td>SQZ</td>, <td><a href="/wiki/RAF_Scampton" title="RAF Scampton">RAF Scampton</a></td>, <td>Military</td>, <td>8,990</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Silverstone" title="Silverstone">Silverstone</a></td>, <td><a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a></td>, <td>EGBV</td>, <td> </td>, <td><i><a href="/wiki/Silverstone_Heliport" title="Silverstone Heliport">Silverstone Heliport</a></i></td>, <td>Public</td>, <td>1,476</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Spalding,_Lincolnshire" title="Spalding, Lincolnshire">Spalding</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGCL</td>, <td> </td>, <td><i><a href="/wiki/Fenland_Airfield" title="Fenland Airfield">Fenland Airfield</a></i></td>, <td>Public</td>, <td>1,949</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Stamford,_Lincolnshire" title="Stamford, Lincolnshire">Stamford</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGXT</td>, <td> </td>, <td><a href="/wiki/RAF_Wittering" title="RAF Wittering">RAF Wittering</a></td>, <td>Military</td>, <td>9,052</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Strubby" title="Strubby">Strubby</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGCG</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/Strubby_Airfield" title="Strubby Airfield">Strubby Airfield</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>, <td>Public</td>, <td>2,461</td>, <td>Paved
+</td>]
+[<td><a href="/wiki/Sywell" title="Sywell">Sywell</a></td>, <td><a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a></td>, <td>EGBK</td>, <td>ORM</td>, <td><i><a href="/wiki/Sywell_Aerodrome" title="Sywell Aerodrome">Sywell Aerodrome</a></i></td>, <td>Private</td>, <td>2,982</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Tollerton,_Nottinghamshire" title="Tollerton, Nottinghamshire">Tollerton</a></td>, <td><a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a></td>, <td>EGBN</td>, <td>NQT</td>, <td><i><a href="/wiki/Nottingham_Airport" title="Nottingham Airport">Nottingham Airport</a></i></td>, <td>Private</td>, <td>3,445</td>, <td>Asphalt/Concrete
+</td>]
+[<td><a href="/wiki/Waddington,_Lincolnshire" title="Waddington, Lincolnshire">Waddington</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGXW</td>, <td>WTN</td>, <td><a href="/wiki/RAF_Waddington" title="RAF Waddington">RAF Waddington</a></td>, <td>Military</td>, <td>9,000</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Worksop" title="Worksop">Worksop</a></td>, <td><a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a></td>, <td>EGNF</td>, <td> </td>, <td><i><a href="/wiki/Netherthorpe_Airfield" title="Netherthorpe Airfield">Netherthorpe Airfield</a></i></td>, <td>Public</td>, <td>1,814</td>, <td>Grass
+</td>]
+[]
+[<td><a href="/wiki/Aldenham" title="Aldenham">Aldenham</a></td>, <td><a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a></td>, <td>EGTR</td>, <td></td>, <td><i><a href="/wiki/Elstree_Airfield" title="Elstree Airfield">Elstree Airfield</a></i></td>, <td>Public</td>, <td>2,136</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Saffron_Walden" title="Saffron Walden">Saffron Walden</a></td>, <td><a href="/wiki/Essex" title="Essex">Essex</a></td>, <td>EGO2</td>, <td> </td>, <td><i><a href="/wiki/Audley_End_Airfield" title="Audley End Airfield">Audley End Airfield</a></i></td>, <td>Private</td>, <td>2,467</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Beccles" title="Beccles">Beccles</a></td>, <td><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></td>, <td>EGSM</td>, <td> </td>, <td><i><a class="mw-redirect" href="/wiki/Beccles_Airport" title="Beccles Airport">Beccles Airport</a></i></td>, <td>Public</td>, <td>2,283</td>, <td>Concrete/Grass
+</td>]
+[<td><a href="/wiki/Bedford" title="Bedford">Bedford</a></td>, <td><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></td>, <td>EGBF</td>, <td> </td>, <td><i><a href="/wiki/Bedford_Aerodrome" title="Bedford Aerodrome">Bedford Aerodrome</a></i></td>, <td>Private</td>, <td>3,593</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Bedford" title="Bedford">Bedford</a></td>, <td><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></td>, <td>EGSB</td>, <td></td>, <td><a class="new" href="/w/index.php?title=Castle_Mill_Airfield&amp;action=edit&amp;redlink=1" title="Castle Mill Airfield (page does not exist)">Castle Mill Airfield</a><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>, <td>Private</td>, <td>600</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Bourn" title="Bourn">Bourn</a></td>, <td><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>, <td>EGSN</td>, <td> </td>, <td><a href="/wiki/Bourn_Airfield" title="Bourn Airfield">Bourn Airfield</a></td>, <td>Private</td>, <td>2,077</td>, <td>Bitumen
+</td>]
+[<td><a href="/wiki/Braintree,_Essex" title="Braintree, Essex">Braintree</a></td>, <td><a href="/wiki/Essex" title="Essex">Essex</a></td>, <td>EGSL</td>, <td> </td>, <td><i><a href="/wiki/Andrewsfield_Aerodrome" title="Andrewsfield Aerodrome">Andrewsfield Aerodrome</a></i></td>, <td>Private</td>, <td>2,592</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Bury_St_Edmunds" title="Bury St Edmunds">Bury St Edmunds</a></td>, <td><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/Rougham_Airfield" title="Rougham Airfield">Rougham Airfield</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></td>, <td>Private</td>, <td>3,049</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Fowlmere" title="Fowlmere">Fowlmere</a></td>, <td><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>, <td>EGMA</td>, <td> </td>, <td><a href="/wiki/RAF_Fowlmere" title="RAF Fowlmere">Fowlmere Airfield</a></td>, <td>Public</td>, <td>2,297</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Cambridge" title="Cambridge">Cambridge</a></td>, <td><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>, <td>EGSC</td>, <td>CBG</td>, <td><i><a class="mw-redirect" href="/wiki/Cambridge_Airport" title="Cambridge Airport">Cambridge International Airport</a></i></td>, <td>Public</td>, <td>6,446</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Clacton-on-Sea" title="Clacton-on-Sea">Clacton-on-Sea</a></td>, <td><a href="/wiki/Essex" title="Essex">Essex</a></td>, <td>EGSQ</td>, <td> </td>, <td><i><a href="/wiki/Clacton_Airport" title="Clacton Airport">Clacton Airport</a></i></td>, <td>Public</td>, <td>2,001</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Cranfield" title="Cranfield">Cranfield</a></td>, <td><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></td>, <td>EGTC</td>, <td> </td>, <td><i><a href="/wiki/Cranfield_Airport" title="Cranfield Airport">Cranfield Airport</a></i></td>, <td>Private</td>, <td>5,902</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Cromer" title="Cromer">Cromer</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/Northrepps_Aerodrome" title="Northrepps Aerodrome">Northrepps Aerodrome</a></td>, <td>Private</td>, <td>2,018</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Duxford" title="Duxford">Duxford</a></td>, <td><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>, <td>EGSU</td>, <td>QFO</td>, <td><i><a href="/wiki/Duxford_Aerodrome" title="Duxford Aerodrome">Duxford Aerodrome</a></i></td>, <td>Public</td>, <td>4,931</td>, <td><a class="mw-redirect" href="/wiki/Pavement_(material)" title="Pavement (material)">Paved</a>
+</td>]
+[<td><a href="/wiki/Great_Yarmouth" title="Great Yarmouth">Great Yarmouth</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGSD</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/Great_Yarmouth_-_North_Denes_Airport" title="Great Yarmouth - North Denes Airport">Great Yarmouth - North Denes Airport</a></td>, <td> </td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Halstead" title="Halstead">Halstead</a></td>, <td><a href="/wiki/Essex" title="Essex">Essex</a></td>, <td>EGSR</td>, <td> </td>, <td><i><a class="new" href="/w/index.php?title=Earls_Colne_Airfield&amp;action=edit&amp;redlink=1" title="Earls Colne Airfield (page does not exist)">Earls Colne Airfield</a></i></td>, <td>Public</td>, <td>3,081</td>, <td>Grass/Asphalt
+</td>]
+[<td><a href="/wiki/Henlow" title="Henlow">Henlow</a></td>, <td><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></td>, <td>EGWE</td>, <td> </td>, <td><a href="/wiki/RAF_Henlow" title="RAF Henlow">RAF Henlow</a></td>, <td>Military</td>, <td> </td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Hethel" title="Hethel">Hethel</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGSK</td>, <td> </td>, <td><a class="new" href="/w/index.php?title=Hethel_Airport&amp;action=edit&amp;redlink=1" title="Hethel Airport (page does not exist)">Hethel Airport</a><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></td>, <td>Private</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Honington,_Suffolk" title="Honington, Suffolk">Honington</a></td>, <td><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></td>, <td>EGXH</td>, <td>BEQ</td>, <td><a href="/wiki/RAF_Honington" title="RAF Honington">RAF Honington</a></td>, <td>Military</td>, <td>9,000</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Ipswich" title="Ipswich">Ipswich</a></td>, <td><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></td>, <td>EGSO</td>, <td> </td>, <td><a href="/wiki/Crowfield_Airfield" title="Crowfield Airfield">Crowfield Airfield</a></td>, <td> </td>, <td>2,520</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Ipswich" title="Ipswich">Ipswich</a></td>, <td><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></td>, <td>EGST</td>, <td> </td>, <td><a class="new" href="/w/index.php?title=Elmsett_Airfield&amp;action=edit&amp;redlink=1" title="Elmsett Airfield (page does not exist)">Elmsett Airfield</a><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></td>, <td>Private</td>, <td>2,920</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Lakenheath" title="Lakenheath">Lakenheath</a></td>, <td><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></td>, <td>EGUL</td>, <td>LKZ</td>, <td><a href="/wiki/RAF_Lakenheath" title="RAF Lakenheath">RAF Lakenheath</a></td>, <td>Military</td>, <td>9,000</td>, <td>Concrete/Asphalt
+</td>]
+[<td><a href="/wiki/Luton" title="Luton">Luton</a></td>, <td><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></td>, <td>EGGW</td>, <td>LTN</td>, <td><i><b><a href="/wiki/Luton_Airport" title="Luton Airport">Luton Airport</a></b></i></td>, <td>Public</td>, <td>7,086</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Marham" title="Marham">Marham</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGYM</td>, <td>KNF</td>, <td><a href="/wiki/RAF_Marham" title="RAF Marham">RAF Marham</a></td>, <td>Military</td>, <td>9,140</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Mildenhall,_Suffolk" title="Mildenhall, Suffolk">Mildenhall</a></td>, <td><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></td>, <td>EGUN</td>, <td>MHZ</td>, <td><a href="/wiki/RAF_Mildenhall" title="RAF Mildenhall">RAF Mildenhall</a></td>, <td>Military</td>, <td>9,221</td>, <td>Concrete/Asphalt
+</td>]
+[<td><a href="/wiki/North_Weald" title="North Weald">North Weald</a></td>, <td><a href="/wiki/Essex" title="Essex">Essex</a></td>, <td>EGSX</td>, <td> </td>, <td><a href="/wiki/North_Weald_Airfield" title="North Weald Airfield">North Weald Airfield</a></td>, <td>Public</td>, <td>6,332</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Norwich" title="Norwich">Norwich</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGSH</td>, <td>NWI</td>, <td><i><b><a href="/wiki/Norwich_Airport" title="Norwich Airport">Norwich Airport</a></b></i></td>, <td>Public</td>, <td>6,040</td>, <td>Asphalt/Concrete
+</td>]
+[<td><a href="/wiki/Norwich" title="Norwich">Norwich</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGSJ</td>, <td> </td>, <td><a href="/wiki/Seething_Airfield" title="Seething Airfield">Seething Airfield</a></td>, <td>Public</td>, <td>2,625</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Norwich" title="Norwich">Norwich</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGSV</td>, <td> </td>, <td><i><a class="mw-redirect" href="/wiki/Old_Buckenham_Airport" title="Old Buckenham Airport">Old Buckenham Airport</a></i></td>, <td>Public</td>, <td>2,625</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Norwich" title="Norwich">Norwich</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGYC</td>, <td>CLF</td>, <td><a href="/wiki/RAF_Coltishall" title="RAF Coltishall">RAF Coltishall</a></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Old_Warden" title="Old Warden">Old Warden</a></td>, <td><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></td>, <td>EGTH</td>, <td> </td>, <td><i><a href="/wiki/Old_Warden_Aerodrome" title="Old Warden Aerodrome">Shuttleworth (Old Warden) Aerodrome</a></i></td>, <td>Private</td>, <td>2,060</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Peterborough" title="Peterborough">Peterborough</a></td>, <td><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>, <td>EGSF</td>, <td> </td>, <td><i><a href="/wiki/Peterborough_Business_Airport" title="Peterborough Business Airport">Peterborough Business Airport</a></i></td>, <td>Private</td>, <td>3,238</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Peterborough" title="Peterborough">Peterborough</a></td>, <td><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>, <td>EGSP</td>, <td> </td>, <td><a href="/wiki/Peterborough/Sibson_Airport" title="Peterborough/Sibson Airport">Peterborough/Sibson Airport</a></td>, <td>Public</td>, <td>3,068</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Shipdham" title="Shipdham">Shipdham</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGSA</td>, <td> </td>, <td><a href="/wiki/RAF_Shipdham" title="RAF Shipdham">Shipdham Airfield</a></td>, <td> </td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/St_Ives,_Cambridgeshire" title="St Ives, Cambridgeshire">St Ives</a></td>, <td><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>, <td>EGUY</td>, <td>QUY</td>, <td><a href="/wiki/RAF_Wyton" title="RAF Wyton">RAF Wyton</a></td>, <td>Military</td>, <td>8,225</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/St_Neots" title="St Neots">St Neots</a></td>, <td><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>, <td>EGMJ</td>, <td> </td>, <td><a href="/wiki/Little_Gransden_Airfield" title="Little Gransden Airfield">Little Gransden Airfield</a></td>, <td>Public</td>, <td>1,870</td>, <td>Grass
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Southend" title="Southend">Southend</a></td>, <td><a href="/wiki/Essex" title="Essex">Essex</a></td>, <td>EGMC</td>, <td>SEN</td>, <td><i><b><a href="/wiki/London_Southend_Airport" title="London Southend Airport">London Southend Airport</a></b></i></td>, <td>Public</td>, <td>6,089</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Stansted_Mountfitchet" title="Stansted Mountfitchet">Stansted Mountfitchet</a></td>, <td><a href="/wiki/Essex" title="Essex">Essex</a></td>, <td>EGSS</td>, <td>STN</td>, <td><i><b><a class="mw-redirect" href="/wiki/Stansted_Airport" title="Stansted Airport">Stansted Airport</a></b></i></td>, <td>Public</td>, <td>10,000</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Stapleford_Tawney" title="Stapleford Tawney">Stapleford Tawney</a></td>, <td><a href="/wiki/Essex" title="Essex">Essex</a></td>, <td>EGSG</td>, <td> </td>, <td><i><a href="/wiki/Stapleford_Aerodrome" title="Stapleford Aerodrome">Stapleford Aerodrome</a></i></td>, <td>Public</td>, <td>3,533</td>, <td>Grass/Asphalt
+</td>]
+[<td><a href="/wiki/Stowmarket" title="Stowmarket">Stowmarket</a></td>, <td><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></td>, <td>EGUW</td>, <td> </td>, <td><a href="/wiki/RAF_Wattisham" title="RAF Wattisham">Wattisham Airfield</a></td>, <td>Military</td>, <td>7,953</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Thetford" title="Thetford">Thetford</a></td>, <td><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></td>, <td>EGXH</td>, <td>BEQ</td>, <td><a href="/wiki/RAF_Honington" title="RAF Honington">RAF Honington</a></td>, <td>Military</td>, <td>9,012</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Welwyn_Garden_City" title="Welwyn Garden City">Welwyn Garden City</a></td>, <td><a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a></td>, <td>EGLG</td>, <td> </td>, <td><i><a class="mw-redirect" href="/wiki/Panshanger_Airport" title="Panshanger Airport">Panshanger Airport</a></i></td>, <td>Public</td>, <td>3,189</td>, <td>Grass
+</td>]
+[]
+[<td><a href="/wiki/London_Borough_of_Bromley" title="London Borough of Bromley">Bromley</a></td>, <td><a href="/wiki/Greater_London" title="Greater London">Greater London</a></td>, <td>EGKB</td>, <td>BQH</td>, <td><i><a href="/wiki/London_Biggin_Hill_Airport" title="London Biggin Hill Airport">London Biggin Hill Airport</a></i></td>, <td>Public</td>, <td>5,912</td>, <td>Tarmac
+</td>]
+[<td><a href="/wiki/London_Borough_of_Havering" title="London Borough of Havering">Havering</a></td>, <td><a href="/wiki/Greater_London" title="Greater London">Greater London</a></td>, <td>EGML</td>, <td> </td>, <td><a href="/wiki/Damyns_Hall_Aerodrome" title="Damyns Hall Aerodrome">Damyns Hall Aerodrome</a></td>, <td>Private</td>, <td>1,965</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/London_Borough_of_Hillingdon" title="London Borough of Hillingdon">Hillingdon</a></td>, <td><a href="/wiki/Greater_London" title="Greater London">Greater London</a></td>, <td>EGLL</td>, <td>LHR</td>, <td><i><b><a href="/wiki/Heathrow_Airport" title="Heathrow Airport">Heathrow Airport</a></b></i></td>, <td>Public</td>, <td>12,799</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/London_Borough_of_Hillingdon" title="London Borough of Hillingdon">Hillingdon</a></td>, <td><a href="/wiki/Greater_London" title="Greater London">Greater London</a></td>, <td>EGWU</td>, <td>NHT</td>, <td><i><a href="/wiki/RAF_Northolt" title="RAF Northolt">RAF Northolt</a></i></td>, <td>Military</td>, <td>5,545</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/London_Borough_of_Newham" title="London Borough of Newham">Newham</a></td>, <td><a href="/wiki/Greater_London" title="Greater London">Greater London</a></td>, <td>EGLC</td>, <td>LCY</td>, <td><i><b><a href="/wiki/London_City_Airport" title="London City Airport">London City Airport</a></b></i></td>, <td>Public</td>, <td>4,948</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/London_Borough_of_Wandsworth" title="London Borough of Wandsworth">Wandsworth</a></td>, <td><a href="/wiki/Greater_London" title="Greater London">Greater London</a></td>, <td>EGLW</td>, <td> </td>, <td><i><a href="/wiki/London_Heliport" title="London Heliport">London Heliport</a></i></td>, <td>Public</td>, <td>125</td>, <td>Concrete
+</td>]
+[]
+[<td><a href="/wiki/Alnwick" title="Alnwick">Alnwick</a></td>, <td><a href="/wiki/Northumberland" title="Northumberland">Northumberland</a></td>, <td>EGQM</td>, <td> </td>, <td><a href="/wiki/RAF_Boulmer" title="RAF Boulmer">RAF Boulmer</a></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a class="new" href="/w/index.php?title=Bockenfield&amp;action=edit&amp;redlink=1" title="Bockenfield (page does not exist)">Bockenfield</a></td>, <td><a href="/wiki/Northumberland" title="Northumberland">Northumberland</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/Eshott_Airfield" title="Eshott Airfield">Eshott Airfield</a></td>, <td>Public</td>, <td> </td>, <td>Asphalt
+</td>]
+[<td>Darlington</td>, <td>County Durham</td>, <td>EGNV</td>, <td>MME</td>, <td><i><b><a href="/wiki/Teesside_International_Airport" title="Teesside International Airport">Teesside International Airport</a></b></i></td>, <td>Public</td>, <td>7,516</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Woolsington" title="Woolsington">Woolsington</a></td>, <td><a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a></td>, <td>EGNT</td>, <td>NCL</td>, <td><i><b><a href="/wiki/Newcastle_International_Airport" title="Newcastle International Airport">Newcastle International Airport</a></b></i></td>, <td>Public</td>, <td>7,641</td>, <td>Asphalt
+</td>]
+[]
+[<td><a href="/wiki/Barrow-in-Furness" title="Barrow-in-Furness">Barrow-in-Furness</a></td>, <td><a href="/wiki/Cumbria" title="Cumbria">Cumbria</a></td>, <td>EGNL</td>, <td>BWF</td>, <td><i><a href="/wiki/Barrow/Walney_Island_Airport" title="Barrow/Walney Island Airport">Barrow/Walney Island Airport</a></i></td>, <td>Public</td>, <td>3,327</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Blackpool" title="Blackpool">Blackpool</a></td>, <td><a href="/wiki/Lancashire" title="Lancashire">Lancashire</a></td>, <td>EGNH</td>, <td>BLK</td>, <td><i><a href="/wiki/Blackpool_Airport" title="Blackpool Airport">Blackpool Airport</a></i></td>, <td>Private</td>, <td>6,132</td>, <td>Asphalt
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Carlisle,_Cumbria" title="Carlisle, Cumbria">Carlisle</a></td>, <td><a href="/wiki/Cumbria" title="Cumbria">Cumbria</a></td>, <td>EGNC</td>, <td>CAX</td>, <td><i><a href="/wiki/Carlisle_Lake_District_Airport" title="Carlisle Lake District Airport">Carlisle Lake District Airport</a></i></td>, <td>Public</td>, <td>6,027</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Eccles,_Greater_Manchester" title="Eccles, Greater Manchester">Eccles</a></td>, <td><a href="/wiki/Greater_Manchester" title="Greater Manchester">Greater Manchester</a></td>, <td>EGCB</td>, <td> </td>, <td><i><a class="mw-redirect" href="/wiki/City_Airport_Manchester" title="City Airport Manchester">City Airport Manchester</a></i></td>, <td>Public</td>, <td>2,037</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Formby" title="Formby">Formby</a></td>, <td><a href="/wiki/Merseyside" title="Merseyside">Merseyside</a></td>, <td>EGOW</td>, <td> </td>, <td><a href="/wiki/RAF_Woodvale" title="RAF Woodvale">RAF Woodvale</a></td>, <td>Military</td>, <td>5,405</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Liverpool" title="Liverpool">Liverpool</a></td>, <td><a href="/wiki/Merseyside" title="Merseyside">Merseyside</a></td>, <td>EGGP</td>, <td>LPL</td>, <td><i><b><a href="/wiki/Liverpool_John_Lennon_Airport" title="Liverpool John Lennon Airport">Liverpool John Lennon Airport</a></b></i></td>, <td>Public</td>, <td>7,500</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Warton,_Fylde" title="Warton, Fylde">Warton</a></td>, <td><a href="/wiki/Lancashire" title="Lancashire">Lancashire</a></td>, <td>EGNO</td>, <td> </td>, <td><i><a href="/wiki/Warton_Aerodrome" title="Warton Aerodrome">Warton Aerodrome</a></i></td>, <td>Private</td>, <td>7,946</td>, <td>Asphalt
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Ringway,_Greater_Manchester" title="Ringway, Greater Manchester">Ringway</a></td>, <td><a href="/wiki/Greater_Manchester" title="Greater Manchester">Greater Manchester</a></td>, <td>EGCC</td>, <td>MAN</td>, <td><i><b><a href="/wiki/Manchester_Airport" title="Manchester Airport">Manchester Airport</a></b></i></td>, <td>Public</td>, <td>10,007</td>, <td>Concrete/Asphalt
+</td>]
+[]
+[<td><a class="mw-redirect" href="/wiki/Abingdon,_Oxfordshire" title="Abingdon, Oxfordshire">Abingdon</a></td>, <td><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></td>, <td>EGUD</td>, <td></td>, <td><a href="/wiki/RAF_Abingdon" title="RAF Abingdon">RAF Abingdon</a></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Andover,_Hampshire" title="Andover, Hampshire">Andover</a></td>, <td><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>, <td>EGHO</td>, <td> </td>, <td><i><a href="/wiki/Thruxton_Aerodrome" title="Thruxton Aerodrome">Thruxton Aerodrome</a></i></td>, <td>Public</td>, <td>2,526</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Andover,_Hampshire" title="Andover, Hampshire">Andover</a></td>, <td><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>, <td>EGVP</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/Army_Air_Corps_Middle_Wallop" title="Army Air Corps Middle Wallop">Army Air Corps Middle Wallop</a></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Ascot_Racecourse" title="Ascot Racecourse">Ascot Racecourse</a></td>, <td><a href="/wiki/Berkshire" title="Berkshire">Berkshire</a></td>, <td>EGLT</td>, <td> </td>, <td><i><a href="/wiki/Ascot_Racecourse_Heliport" title="Ascot Racecourse Heliport">Ascot Racecourse Heliport</a></i></td>, <td>Public</td>, <td>2,625</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Bembridge" title="Bembridge">Bembridge</a></td>, <td><a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a></td>, <td>EGHJ</td>, <td>BBP</td>, <td><a href="/wiki/Bembridge_Airport" title="Bembridge Airport">Bembridge Airport</a></td>, <td>Private</td>, <td>2,746</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Benson,_Oxfordshire" title="Benson, Oxfordshire">Benson</a></td>, <td><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></td>, <td>EGUB</td>, <td>BEX</td>, <td><a href="/wiki/RAF_Benson" title="RAF Benson">RAF Benson</a></td>, <td>Military</td>, <td>5,981</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Bicester" title="Bicester">Bicester</a></td>, <td><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></td>, <td>EGDD</td>, <td> </td>, <td><a href="/wiki/Bicester_Airfield" title="Bicester Airfield">Bicester Airfield</a></td>, <td> </td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Brize_Norton" title="Brize Norton">Brize Norton</a></td>, <td><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></td>, <td>EGVN</td>, <td>BZZ</td>, <td><a href="/wiki/RAF_Brize_Norton" title="RAF Brize Norton">RAF Brize Norton</a></td>, <td>Military</td>, <td>10,007</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Challock" title="Challock">Challock</a></td>, <td><a href="/wiki/Kent" title="Kent">Kent</a></td>, <td>EGKE</td>, <td> </td>, <td><a class="new" href="/w/index.php?title=Challock_Airfield&amp;action=edit&amp;redlink=1" title="Challock Airfield (page does not exist)">Challock Airfield</a><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></td>, <td> </td>, <td> </td>, <td> 
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Chobham,_Surrey" title="Chobham, Surrey">Chobham</a></td>, <td><a href="/wiki/Surrey" title="Surrey">Surrey</a></td>, <td>EGTF</td>, <td> </td>, <td><i><a href="/wiki/Fairoaks_Airport" title="Fairoaks Airport">Fairoaks Airport</a></i></td>, <td>Private</td>, <td>2,667</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Crawley" title="Crawley">Crawley</a></td>, <td><a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a></td>, <td>EGKK</td>, <td>LGW</td>, <td><i><b><a href="/wiki/Gatwick_Airport" title="Gatwick Airport">Gatwick Airport</a></b></i></td>, <td>Public</td>, <td>10,879</td>, <td>Asphalt/Concrete
+</td>]
+[<td><a href="/wiki/Denton,_Kent" title="Denton, Kent">Denton</a></td>, <td><a href="/wiki/Kent" title="Kent">Kent</a></td>, <td> </td>, <td> </td>, <td><a class="new" href="/w/index.php?title=Clipgate_Airfield&amp;action=edit&amp;redlink=1" title="Clipgate Airfield (page does not exist)">Clipgate Airfield</a></td>, <td>Private</td>, <td>1,607</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Dunsfold" title="Dunsfold">Dunsfold</a></td>, <td><a href="/wiki/Surrey" title="Surrey">Surrey</a></td>, <td>EGTD</td>, <td> </td>, <td><a href="/wiki/Dunsfold_Aerodrome" title="Dunsfold Aerodrome">Dunsfold Aerodrome</a></td>, <td> </td>, <td> </td>, <td> 
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Enstone,_Oxfordshire" title="Enstone, Oxfordshire">Enstone</a></td>, <td><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></td>, <td>EGTN</td>, <td> </td>, <td><a href="/wiki/Enstone_Airfield" title="Enstone Airfield">Enstone Airfield</a></td>, <td>Public</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Farnborough,_Hampshire" title="Farnborough, Hampshire">Farnborough</a></td>, <td><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>, <td>EGLF</td>, <td>FAB</td>, <td><i><a href="/wiki/Farnborough_Airport" title="Farnborough Airport">Farnborough Airport</a></i></td>, <td>Private</td>, <td>8,005</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Gerrards_Cross" title="Gerrards Cross">Gerrards Cross</a></td>, <td><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></td>, <td>EGLD</td>, <td> </td>, <td><i><a href="/wiki/Denham_Aerodrome" title="Denham Aerodrome">Denham Aerodrome</a></i></td>, <td>Public</td>, <td>2,543</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Goodwood_Racecourse" title="Goodwood Racecourse">Goodwood Racecourse</a></td>, <td><a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a></td>, <td>EGKG</td>, <td> </td>, <td><i><a href="/wiki/Goodwood_Racecourse_Heliport" title="Goodwood Racecourse Heliport">Goodwood Racecourse Heliport</a></i></td>, <td>Public</td>, <td>1,640</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Hammerwood_Park" title="Hammerwood Park">Hammerwood Park</a></td>, <td><a href="/wiki/East_Sussex" title="East Sussex">East Sussex</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/Hammerwood_Park" title="Hammerwood Park">Hammerwood Helipad</a><sup class="reference" id="cite_ref-Listing_of_Hammerwood_Helipad_at_Helipad.co.uk_8-0"><a href="#cite_note-Listing_of_Hammerwood_Helipad_at_Helipad.co.uk-8">[8]</a></sup><sup class="reference" id="cite_ref-Listing_of_Hammerwood_Helipad_at_Griffin_Helicopters_9-0"><a href="#cite_note-Listing_of_Hammerwood_Helipad_at_Griffin_Helicopters-9">[9]</a></sup></td>, <td>Public</td>, <td>130</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Halton,_Buckinghamshire" title="Halton, Buckinghamshire">Halton</a></td>, <td><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></td>, <td>EGWN</td>, <td> </td>, <td><a href="/wiki/RAF_Halton" title="RAF Halton">RAF Halton</a></td>, <td>Military</td>, <td> </td>, <td>Grass
+</td>]
+[<td><a href="/wiki/High_Wycombe" title="High Wycombe">High Wycombe</a></td>, <td><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></td>, <td>EGTB</td>, <td> </td>, <td><i><a class="mw-redirect" href="/wiki/Wycombe_Air_Park/Booker_Airport" title="Wycombe Air Park/Booker Airport">Wycombe Air Park/Booker Airport</a></i></td>, <td>Public</td>, <td>2,411</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Kidlington" title="Kidlington">Kidlington</a></td>, <td><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></td>, <td>EGTK</td>, <td>OXF</td>, <td><a class="mw-redirect" href="/wiki/London_Oxford_Airport" title="London Oxford Airport">London Oxford Airport</a></td>, <td>Private</td>, <td>4,327</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Lancing,_West_Sussex" title="Lancing, West Sussex">Lancing</a></td>, <td><a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a></td>, <td>EGKA</td>, <td>ESH</td>, <td><i><a class="mw-redirect" href="/wiki/Shoreham_Airport" title="Shoreham Airport">Shoreham Airport</a></i></td>, <td>Public</td>, <td>3,399</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Lasham" title="Lasham">Lasham</a></td>, <td><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>, <td>EGHL</td>, <td>QLA</td>, <td><a href="/wiki/Lasham_Airfield" title="Lasham Airfield">Lasham Airfield</a></td>, <td>Public</td>, <td>5,896</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Lydd" title="Lydd">Lydd</a></td>, <td><a href="/wiki/Kent" title="Kent">Kent</a></td>, <td>EGMD</td>, <td>LYX</td>, <td><a href="/wiki/Lydd_Airport" title="Lydd Airport">Lydd Airport</a></td>, <td>Public</td>, <td>4,938</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Headcorn" title="Headcorn">Headcorn</a></td>, <td><a href="/wiki/Kent" title="Kent">Kent</a></td>, <td>EGKH</td>, <td> </td>, <td><i><a class="mw-redirect" href="/wiki/Lashenden_(Headcorn)_Airfield" title="Lashenden (Headcorn) Airfield">Lashenden (Headcorn) Airfield</a></i></td>, <td>Private</td>, <td>2,756</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Manston,_Kent" title="Manston, Kent">Manston</a></td>, <td><a href="/wiki/Kent" title="Kent">Kent</a></td>, <td>EGMH</td>, <td>MSE</td>, <td><i><b><a class="mw-redirect" href="/wiki/Kent_International_Airport" title="Kent International Airport">Kent International Airport</a></b></i></td>, <td>Public</td>, <td>9,016</td>, <td>Tarmac
+</td>]
+[<td><a href="/wiki/Nutfield,_Surrey" title="Nutfield, Surrey">Nutfield</a></td>, <td><a href="/wiki/Surrey" title="Surrey">Surrey</a></td>, <td>EGKR</td>, <td>KRH</td>, <td><i><a href="/wiki/Redhill_Aerodrome" title="Redhill Aerodrome">Redhill Aerodrome</a></i></td>, <td>Public</td>, <td>2,943</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Odiham" title="Odiham">Odiham</a></td>, <td><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>, <td>EGVO</td>, <td>ODH</td>, <td><a href="/wiki/RAF_Odiham" title="RAF Odiham">RAF Odiham</a></td>, <td>Military</td>, <td>6,030</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Oxford" title="Oxford">Oxford</a></td>, <td><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></td>, <td>EGLJ</td>, <td> </td>, <td><i><a href="/wiki/Chalgrove_Airfield" title="Chalgrove Airfield">Chalgrove Airfield</a></i></td>, <td>Private</td>, <td>6,004</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Popham,_Hampshire" title="Popham, Hampshire">Popham</a></td>, <td><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>, <td>EGHP</td>, <td> </td>, <td><a href="/wiki/Popham_Airfield" title="Popham Airfield">Popham Airfield</a></td>, <td>Public</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Rochester,_Kent" title="Rochester, Kent">Rochester</a></td>, <td><a href="/wiki/Kent" title="Kent">Kent</a></td>, <td>EGTO</td>, <td>RCS</td>, <td><i><a class="mw-redirect" href="/wiki/Rochester_Airport,_England" title="Rochester Airport, England">Rochester Airport</a></i></td>, <td>Private</td>, <td>3,159</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Sandown" title="Sandown">Sandown</a></td>, <td><a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a></td>, <td>EGHN</td>, <td> </td>, <td><a href="/wiki/Isle_of_Wight/Sandown_Airport" title="Isle of Wight/Sandown Airport">Isle of Wight/Sandown Airport</a></td>, <td>Public</td>, <td>2,900</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Southampton" title="Southampton">Southampton</a></td>, <td><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>, <td>EGHI</td>, <td>SOU</td>, <td><i><b><a href="/wiki/Southampton_Airport" title="Southampton Airport">Southampton Airport</a></b></i></td>, <td>Public</td>, <td>5,653</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Westhampnett" title="Westhampnett">Westhampnett</a></td>, <td><a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a></td>, <td>EGHR</td>, <td>QUG</td>, <td><i><a href="/wiki/Chichester/Goodwood_Airport" title="Chichester/Goodwood Airport">Chichester/Goodwood Airport</a></i></td>, <td>Public</td>, <td>4,117</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Weston-on-the-Green" title="Weston-on-the-Green">Weston-on-the-Green</a></td>, <td><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/RAF_Weston-on-the-Green" title="RAF Weston-on-the-Green">RAF Weston-on-the-Green</a></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/White_Waltham" title="White Waltham">White Waltham</a></td>, <td><a href="/wiki/Berkshire" title="Berkshire">Berkshire</a></td>, <td>EGLM</td>, <td> </td>, <td><i><a href="/wiki/White_Waltham_Airfield" title="White Waltham Airfield">White Waltham Airfield</a></i></td>, <td>Public</td>, <td>3,330</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Yateley" title="Yateley">Yateley</a></td>, <td><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>, <td>EGLK</td>, <td>BBS</td>, <td><i><a href="/wiki/Blackbushe_Airport" title="Blackbushe Airport">Blackbushe Airport</a></i></td>, <td>Public</td>, <td>4,380</td>, <td>Asphalt
+</td>]
+[]
+[<td><a href="/wiki/Amesbury" title="Amesbury">Amesbury</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGDM</td>, <td> </td>, <td><a href="/wiki/MoD_Boscombe_Down" title="MoD Boscombe Down">MoD Boscombe Down</a></td>, <td>Military</td>, <td>10,538</td>, <td>Concrete/Asphalt
+</td>]
+[<td><a href="/wiki/Bodmin" title="Bodmin">Bodmin</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td>EGLA</td>, <td> </td>, <td><a href="/wiki/Bodmin_Airfield" title="Bodmin Airfield">Bodmin Aerodrome</a></td>, <td>Public</td>, <td>2,001</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Braunton" title="Braunton">Braunton</a></td>, <td><a href="/wiki/Devon" title="Devon">Devon</a></td>, <td>EGDC</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/Royal_Marines_Base_Chivenor" title="Royal Marines Base Chivenor">Royal Marines Base Chivenor</a></td>, <td>Military</td>, <td>6,014</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Bulford" title="Bulford">Bulford</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGDS</td>, <td> </td>, <td><a class="new" href="/w/index.php?title=Salisbury_Plain_Aerodrome&amp;action=edit&amp;redlink=1" title="Salisbury Plain Aerodrome (page does not exist)">Salisbury Plain Aerodrome</a></td>, <td> </td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Cheltenham_Racecourse" title="Cheltenham Racecourse">Cheltenham Racecourse</a></td>, <td><a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a></td>, <td>EGBC</td>, <td> </td>, <td><i><a href="/wiki/Cheltenham_Racecourse_Heliport" title="Cheltenham Racecourse Heliport">Cheltenham Racecourse Heliport</a></i></td>, <td>Public</td>, <td>1,312</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Churchdown" title="Churchdown">Churchdown</a></td>, <td><a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a></td>, <td>EGBJ</td>, <td>GLO</td>, <td><a href="/wiki/Gloucestershire_Airport" title="Gloucestershire Airport">Gloucestershire Airport</a></td>, <td>Public</td>, <td>4,656</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Clyst_Honiton" title="Clyst Honiton">Clyst Honiton</a></td>, <td><a href="/wiki/Devon" title="Devon">Devon</a></td>, <td>EGTE</td>, <td>EXT</td>, <td><i><b><a href="/wiki/Exeter_Airport" title="Exeter Airport">Exeter Airport</a></b></i></td>, <td>Public</td>, <td>6,833</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Colerne" title="Colerne">Colerne</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGUO</td>, <td> </td>, <td><a href="/wiki/Colerne_Airfield" title="Colerne Airfield">Colerne Airfield</a></td>, <td>Military</td>, <td>3,593</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Davidstow" title="Davidstow">Davidstow</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/RAF_Davidstow_Moor" title="RAF Davidstow Moor">RAF Davidstow Moor</a></td>, <td>Public</td>, <td>2000</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Fairford" title="Fairford">Fairford</a></td>, <td><a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a></td>, <td>EGVA</td>, <td>FFD</td>, <td><a href="/wiki/RAF_Fairford" title="RAF Fairford">RAF Fairford</a></td>, <td>Military</td>, <td>9,994</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Great_Torrington" title="Great Torrington">Great Torrington</a></td>, <td><a href="/wiki/Devon" title="Devon">Devon</a></td>, <td>EGHU</td>, <td> </td>, <td><a href="/wiki/Eaglescott_Airfield" title="Eaglescott Airfield">Eaglescott Airfield</a></td>, <td>Public</td>, <td>1,969</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Helston" title="Helston">Helston</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td>EGDR</td>, <td> </td>, <td><a href="/wiki/RNAS_Culdrose_(HMS_Seahawk)" title="RNAS Culdrose (HMS Seahawk)">RNAS Culdrose</a></td>, <td>Military</td>, <td>6,006</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Henstridge" title="Henstridge">Henstridge</a></td>, <td><a href="/wiki/Somerset" title="Somerset">Somerset</a></td>, <td>EGHS</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/Henstridge_Airfield" title="Henstridge Airfield">Henstridge Airfield</a><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></td>, <td>Public</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Honiton" title="Honiton">Honiton</a></td>, <td><a href="/wiki/Devon" title="Devon">Devon</a></td>, <td>EGTU</td>, <td> </td>, <td><i><a href="/wiki/Dunkeswell_Aerodrome" title="Dunkeswell Aerodrome">Dunkeswell Aerodrome</a></i></td>, <td>Private</td>, <td>3,176</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Hullavington" title="Hullavington">Hullavington</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGDV</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/Hullavington_Airport" title="Hullavington Airport">Hullavington Airport</a><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></td>, <td>Public</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Hurn" title="Hurn">Hurn</a></td>, <td><a href="/wiki/Dorset" title="Dorset">Dorset</a></td>, <td>EGHH</td>, <td>BOH</td>, <td><i><b><a href="/wiki/Bournemouth_Airport" title="Bournemouth Airport">Bournemouth Airport</a></b></i></td>, <td>Public</td>, <td>7,451</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Kemble,_Gloucestershire" title="Kemble, Gloucestershire">Kemble</a></td>, <td><a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a></td>, <td>EGBP</td>, <td>GBA</td>, <td><i><a href="/wiki/Cotswold_Airport" title="Cotswold Airport">Cotswold Airport</a></i></td>, <td>Private</td>, <td>6,591</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Lyneham,_Wiltshire" title="Lyneham, Wiltshire">Lyneham</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGDL</td>, <td>LYE</td>, <td><a href="/wiki/RAF_Lyneham" title="RAF Lyneham">RAF Lyneham</a></td>, <td>Military</td>, <td>7,828</td>, <td>Asphalt
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Mawgan_in_Pydar" title="Mawgan in Pydar">Mawgan in Pydar</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td>EGHQ</td>, <td>NQY</td>, <td><i><b><a href="/wiki/Newquay_Airport" title="Newquay Airport">Newquay Airport</a></b></i> / <a href="/wiki/RAF_St_Mawgan" title="RAF St Mawgan">RAF St Mawgan</a></td>, <td>Public</td>, <td>9,006</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Mullion,_Cornwall" title="Mullion, Cornwall">Mullion</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td>EGDO</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/RNAS_Predannack" title="RNAS Predannack">RNAS Predannack</a></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Netheravon" title="Netheravon">Netheravon</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGDN</td>, <td> </td>, <td><a href="/wiki/Netheravon_Airfield" title="Netheravon Airfield">Netheravon Airfield</a><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Oaksey" title="Oaksey">Oaksey</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGTW</td>, <td> </td>, <td><a class="new" href="/w/index.php?title=Oaksey_Park_Airfield&amp;action=edit&amp;redlink=1" title="Oaksey Park Airfield (page does not exist)">Oaksey Park Airfield</a><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></td>, <td>Public</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Perranporth" title="Perranporth">Perranporth</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td>EGTP</td>, <td> </td>, <td><i><a href="/wiki/Perranporth_Airfield" title="Perranporth Airfield">Perranporth Airfield</a></i></td>, <td>Public</td>, <td>3,084</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Portland_Harbour" title="Portland Harbour">Portland Harbour</a></td>, <td><a href="/wiki/Dorset" title="Dorset">Dorset</a></td>, <td>EGDP</td>, <td> </td>, <td><a href="/wiki/RNAS_Portland_(HMS_Osprey)" title="RNAS Portland (HMS Osprey)">Portland Heliport</a><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></td>, <td>Military</td>, <td>750</td>, <td> 
+</td>]
+[<td><a href="/wiki/Salisbury" title="Salisbury">Salisbury</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGLS</td>, <td> </td>, <td><i><a href="/wiki/Old_Sarum_Airfield" title="Old Sarum Airfield">Old Sarum Airfield</a></i></td>, <td>Public</td>, <td>2,562</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Shaftesbury" title="Shaftesbury">Shaftesbury</a></td>, <td><a href="/wiki/Dorset" title="Dorset">Dorset</a></td>, <td>EGHA</td>, <td> </td>, <td><i><a href="/wiki/Compton_Abbas_Airfield" title="Compton Abbas Airfield">Compton Abbas Airfield</a></i></td>, <td>Private</td>, <td>2,635</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/St_Just_in_Penwith" title="St Just in Penwith">St Just</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td>EGHC</td>, <td>LEQ</td>, <td><i><b><a href="/wiki/Land%27s_End_Airport" title="Land's End Airport">Land's End Airport</a></b></i></td>, <td>Public</td>, <td>2,598</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/St_Mary%27s,_Isles_of_Scilly" title="St Mary's, Isles of Scilly">St Mary's</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td>EGHE</td>, <td>ISC</td>, <td><i><b><a class="mw-redirect" href="/wiki/St_Mary%27s_Airport_(Isles_of_Scilly)" title="St Mary's Airport (Isles of Scilly)">St Mary's Airport</a></b></i></td>, <td>Public</td>, <td>1,969</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Truro" title="Truro">Truro</a></td>, <td><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>, <td>EGHY</td>, <td> </td>, <td><a href="/wiki/Truro_Aerodrome" title="Truro Aerodrome">Truro Aerodrome</a></td>, <td>Public</td>, <td>1,739</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Upavon" title="Upavon">Upavon</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGDJ</td>, <td>UPV</td>, <td>former <a href="/wiki/RAF_Upavon" title="RAF Upavon">RAF Upavon</a></td>, <td>Military</td>, <td> </td>, <td>Grass
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Lulsgate_plateau" title="Lulsgate plateau">Lulsgate</a></td>, <td><a href="/wiki/Somerset" title="Somerset">Somerset</a></td>, <td>EGGD</td>, <td>BRS</td>, <td><i><b><a href="/wiki/Bristol_Airport" title="Bristol Airport">Bristol Airport</a></b></i></td>, <td>Public</td>, <td>6,598</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Middlezoy" title="Middlezoy">Middlezoy</a>
+</td>, <td><a href="/wiki/Somerset" title="Somerset">Somerset</a>
+</td>, <td>
+</td>, <td>
+</td>, <td><a class="external text" href="http://middlezoyaerodrome.simplesite.com/" rel="nofollow">Middlezoy Aerodrome</a>
+<p><a href="/wiki/RAF_Weston_Zoyland" title="RAF Weston Zoyland">RAF Weston Zoyland</a>
+</p>
+</td>, <td>Public
+</td>, <td>1,920
+</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Westonzoyland" title="Westonzoyland">Westonzoyland</a></td>, <td><a href="/wiki/Somerset" title="Somerset">Somerset</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/RAF_Weston_Zoyland" title="RAF Weston Zoyland">RAF Weston Zoyland</a></td>, <td>Public</td>, <td> </td>, <td>Grass/Asphalt
+</td>]
+[<td><a href="/wiki/Wroughton" title="Wroughton">Wroughton</a></td>, <td><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>, <td>EGDT</td>, <td> </td>, <td><a href="/wiki/RAF_Wroughton" title="RAF Wroughton">RAF Wroughton</a></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Yeovil" title="Yeovil">Yeovil</a></td>, <td><a href="/wiki/Somerset" title="Somerset">Somerset</a></td>, <td>EGDW</td>, <td> </td>, <td><a href="/wiki/RNAS_Merryfield" title="RNAS Merryfield">RNAS Merryfield</a></td>, <td>Military</td>, <td>5,970</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Yeovil" title="Yeovil">Yeovil</a></td>, <td><a href="/wiki/Somerset" title="Somerset">Somerset</a></td>, <td>EGDY</td>, <td>YEO</td>, <td><a href="/wiki/RNAS_Yeovilton_(HMS_Heron)" title="RNAS Yeovilton (HMS Heron)">RNAS Yeovilton</a></td>, <td>Military</td>, <td>7,580</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Yeovil" title="Yeovil">Yeovil</a></td>, <td><a href="/wiki/Somerset" title="Somerset">Somerset</a></td>, <td>EGHG</td>, <td> </td>, <td><i><a href="/wiki/Yeovil/Westland_Airport" title="Yeovil/Westland Airport">Yeovil Aerodrome</a></i></td>, <td>Public</td>, <td>4,547</td>, <td>Grass
+</td>]
+[]
+[<td><a href="/wiki/Albrighton,_Bridgnorth" title="Albrighton, Bridgnorth">Albrighton</a></td>, <td><a href="/wiki/Shropshire" title="Shropshire">Shropshire</a></td>, <td>EGWC</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/DCAE_Cosford" title="DCAE Cosford">RAF Cosford</a></td>, <td>Military</td>, <td>3,890</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Baginton" title="Baginton">Baginton</a></td>, <td><a href="/wiki/Warwickshire" title="Warwickshire">Warwickshire</a></td>, <td>EGBE</td>, <td>CVT</td>, <td><i><a href="/wiki/Coventry_Airport" title="Coventry Airport">Coventry Airport</a></i></td>, <td>Public</td>, <td>6,586</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Solihull" title="Solihull">Solihull</a></td>, <td><a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands</a></td>, <td>EGBB</td>, <td>BHX</td>, <td><i><b><a class="mw-redirect" href="/wiki/Birmingham_International_Airport_(UK)" title="Birmingham International Airport (UK)">Birmingham Airport</a></b></i></td>, <td>Public</td>, <td>10,013</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Leominster" title="Leominster">Leominster</a></td>, <td><a href="/wiki/Herefordshire" title="Herefordshire">Herefordshire</a></td>, <td>EGBS</td>, <td> </td>, <td><i><a href="/wiki/Shobdon_Aerodrome" title="Shobdon Aerodrome">Shobdon Aerodrome</a></i></td>, <td>Public</td>, <td>2,953</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Shrewsbury" title="Shrewsbury">Shrewsbury</a></td>, <td><a href="/wiki/Shropshire" title="Shropshire">Shropshire</a></td>, <td>EGCV</td>, <td> </td>, <td><i><a href="/wiki/Sleap_Airfield" title="Sleap Airfield">Sleap Airfield</a></i></td>, <td>Public</td>, <td>2,631</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Tatenhill" title="Tatenhill">Tatenhill</a></td>, <td><a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a></td>, <td>EGBM</td>, <td> </td>, <td><i><a href="/wiki/Tatenhill_Airfield" title="Tatenhill Airfield">Tatenhill Airfield</a></i></td>, <td>Public</td>, <td>2,585</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Ternhill" title="Ternhill">Ternhill</a></td>, <td><a href="/wiki/Shropshire" title="Shropshire">Shropshire</a></td>, <td>EGOE</td>, <td> </td>, <td><a href="/wiki/RAF_Ternhill" title="RAF Ternhill">RAF Ternhill</a></td>, <td>Military</td>, <td>3,215</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Wellesbourne" title="Wellesbourne">Wellesbourne</a></td>, <td><a href="/wiki/Warwickshire" title="Warwickshire">Warwickshire</a></td>, <td>EGBW</td>, <td> </td>, <td><i><a href="/wiki/Wellesbourne_Mountford_Airfield" title="Wellesbourne Mountford Airfield">Wellesbourne Mountford Aerodrome</a></i></td>, <td>Private</td>, <td>3,009</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a></td>, <td><a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a></td>, <td>EGBO</td>, <td> </td>, <td><i><a href="/wiki/Wolverhampton_Airport" title="Wolverhampton Airport">Wolverhampton Airport</a></i></td>, <td>Public</td>, <td>3,878</td>, <td>Asphalt
+</td>]
+[]
+[<td><a href="/wiki/Bagby" title="Bagby">Bagby</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGNG</td>, <td> </td>, <td><a class="mw-redirect" href="/wiki/Bagby_airfield" title="Bagby airfield">Bagby Airfield</a></td>, <td>Private</td>, <td>2,100</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Beverley" title="Beverley">Beverley</a></td>, <td><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></td>, <td>EGNY</td>, <td> </td>, <td><a href="/wiki/Beverley/Linley_Hill_Airfield" title="Beverley/Linley Hill Airfield">Beverley/Linley Hill Airfield</a></td>, <td>Public</td>, <td>2,083</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Brough,_East_Riding_of_Yorkshire" title="Brough, East Riding of Yorkshire">Brough</a></td>, <td><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></td>, <td>EGNB</td>, <td> </td>, <td><a href="/wiki/Brough_Aerodrome" title="Brough Aerodrome">Brough Aerodrome</a></td>, <td>Private</td>, <td>3,458</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Breighton" title="Breighton">Breighton</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGBR</td>, <td> </td>, <td><a class="new" href="/w/index.php?title=Breighton_Aerodrome&amp;action=edit&amp;redlink=1" title="Breighton Aerodrome (page does not exist)">Breighton Aerodrome</a></td>, <td>Private</td>, <td>2,790</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/Church_Fenton" title="Church Fenton">Church Fenton</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGXG</td>, <td> </td>, <td><a href="/wiki/Leeds_East_Airport" title="Leeds East Airport">Leeds East Airport</a></td>, <td>Private</td>, <td>6,158</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Dishforth" title="Dishforth">Dishforth</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGXD</td>, <td> </td>, <td><a href="/wiki/RAF_Dishforth" title="RAF Dishforth">RAF Dishforth</a></td>, <td>Military</td>, <td>6,096</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Finningley" title="Finningley">Finningley</a></td>, <td><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a></td>, <td>EGCN</td>, <td>DSA</td>, <td><i><b><a href="/wiki/Doncaster_Sheffield_Airport" title="Doncaster Sheffield Airport">Doncaster Sheffield Airport</a></b></i></td>, <td>Public</td>, <td>9,491</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></td>, <td><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></td>, <td>EGND</td>, <td> </td>, <td><a href="/wiki/Crosland_Moor_Airfield" title="Crosland Moor Airfield">Crosland Moor Airfield</a></td>, <td>Private</td>, <td>2,296</td>, <td>Asphalt/Grass
+</td>]
+[<td><a href="/wiki/Kirmington" title="Kirmington">Kirmington</a></td>, <td><a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a></td>, <td>EGNJ</td>, <td>HUY</td>, <td><i><b><a href="/wiki/Humberside_Airport" title="Humberside Airport">Humberside Airport</a></b></i></td>, <td>Public</td>, <td>7,205</td>, <td>Asphalt/Concrete
+</td>]
+[<td><a href="/wiki/Leconfield" title="Leconfield">Leconfield</a></td>, <td><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></td>, <td> </td>, <td> </td>, <td><a href="/wiki/RAF_Leconfield" title="RAF Leconfield">RAF Leconfield</a></td>, <td>Military</td>, <td> </td>, <td> 
+</td>]
+[<td><a href="/wiki/Leeds" title="Leeds">Leeds</a></td>, <td><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></td>, <td>EGNM</td>, <td>LBA</td>, <td><i><b><a class="mw-redirect" href="/wiki/Leeds_Bradford_International_Airport" title="Leeds Bradford International Airport">Leeds Bradford International Airport</a></b></i></td>, <td>Public</td>, <td>7,382</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Leeds" title="Leeds">Leeds</a></td>, <td><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></td>, <td>EGNP</td>, <td> </td>, <td><i><a class="new" href="/w/index.php?title=Leeds_Heliport&amp;action=edit&amp;redlink=1" title="Leeds Heliport (page does not exist)">Leeds Heliport</a></i></td>, <td>Private</td>, <td>43</td>, <td>Concrete
+</td>]
+[<td><a href="/wiki/Leeming_Bar" title="Leeming Bar">Leeming Bar</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGXE</td>, <td> </td>, <td><a href="/wiki/RAF_Leeming" title="RAF Leeming">RAF Leeming</a></td>, <td>Military</td>, <td>7,520</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Linton-on-Ouse" title="Linton-on-Ouse">Linton-on-Ouse</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGXU</td>, <td>HRT</td>, <td><a href="/wiki/RAF_Linton-on-Ouse" title="RAF Linton-on-Ouse">RAF Linton-on-Ouse</a></td>, <td>Military</td>, <td>6,020</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/Scunthorpe" title="Scunthorpe">Scunthorpe</a>, <a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a></td>, <td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></td>, <td>EGCF</td>, <td> </td>, <td><i><a href="/wiki/Sandtoft_Airfield" title="Sandtoft Airfield">Sandtoft Airfield</a></i></td>, <td>Public</td>, <td>2,907</td>, <td>Asphalt
+</td>]
+[<td><a class="mw-redirect" href="/wiki/Sherburn-in-Elmet" title="Sherburn-in-Elmet">Sherburn-in-Elmet</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGCJ</td>, <td> </td>, <td><i><a href="/wiki/Sherburn-in-Elmet_Airfield" title="Sherburn-in-Elmet Airfield">Sherburn-in-Elmet Airfield</a></i></td>, <td>Public</td>, <td>2,723</td>, <td>Tarmac
+</td>]
+[<td><a href="/wiki/Topcliffe,_North_Yorkshire" title="Topcliffe, North Yorkshire">Topcliffe</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGXZ</td>, <td> </td>, <td><a href="/wiki/RAF_Topcliffe" title="RAF Topcliffe">RAF Topcliffe</a></td>, <td>Military</td>, <td>5,951</td>, <td>Asphalt
+</td>]
+[<td><a href="/wiki/York" title="York">York</a></td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td>, <td>EGNU</td>, <td> </td>, <td><a href="/wiki/Full_Sutton_Airfield" title="Full Sutton Airfield">Full Sutton Airfield</a></td>, <td>Public</td>, <td>2,533</td>, <td>Grass
+</td>]
+[<td><a href="/wiki/York" title="York">York</a>
+</td>, <td><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a>
+</td>, <td>EGYK
+</td>, <td>
+</td>, <td><a href="/wiki/RAF_Elvington" title="RAF Elvington">Elvington Airfield</a>
+</td>, <td>Public
+</td>, <td>10,151
+</td>, <td>Asphalt/Concrete
+</td>]
