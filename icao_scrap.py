@@ -25,13 +25,22 @@ table_row = table.find_all('tr')
 
 for tr in table_row:
   td = tr.find_all('td')
+  td = [i.text.replace("\n","") for i in td]
+  for i in td:
+    if not i.isprintable() or i =='':
+      td.remove(i)
+  for i in td:
+    if not i.isprintable() or i == '':
+      td.remove(i)
+  for i in td:
+    if not i.isprintable() or i == '':
+      td.remove(i)
 
-  # td = [i for i in td]
-  # fh.writelines(str(td))
-  # fh.writelines('\n')
-  # print(list(td))
-  # print('\n')
+  print(td)
 
+  fh.writelines(str(td).replace('[','').replace(']',''))
+  fh.writelines('\n')
+fh.close()
 
 
 # for tr in table_row:
@@ -43,20 +52,23 @@ for tr in table_row:
 #   print(td)
 #   print('\n')
 
+
+#### Pandas
+
 # dfs = pd.read_html(source, index_col=0)
 # # print(dfs)
 # eng = dfs[0] # dataframe
 
-# ## how to pull data:
+# # ## how to pull data:
 
-print(eng.loc['Waddington']['ICAO'])
-print('\n')
-print(eng.loc['Waddington']['ICAO'][0]) # pulls out string
+# print(eng.loc['Waddington']['ICAO'])
+# print('\n')
+# print(eng.loc['Waddington']['ICAO'][0]) # pulls out string
 
-dfs = pd.read_html(source)
-print(dfs)
-eng = dfs[0] # dataframe
+# dfs = pd.read_html(source)
+# print(dfs)
+# eng = dfs[0] # dataframe
 
-icao ={}
-icao[eng.iloc[11]['Airport name'][0]] = [eng.iloc[11]['ICAO'][0]][0]
-print(icao['Wickenby Aerodrome'])
+# icao ={}
+# icao[eng.iloc[11]['Airport name'][0]] = [eng.iloc[11]['ICAO'][0]][0]
+# print(icao['Wickenby Aerodrome'])
