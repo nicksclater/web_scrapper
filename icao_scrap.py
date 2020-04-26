@@ -43,30 +43,20 @@ for tr in table_row:
 #   print(td)
 #   print('\n')
 
+# dfs = pd.read_html(source, index_col=0)
+# # print(dfs)
+# eng = dfs[0] # dataframe
+
+# ## how to pull data:
+
+print(eng.loc['Waddington']['ICAO'])
+print('\n')
+print(eng.loc['Waddington']['ICAO'][0]) # pulls out string
+
 dfs = pd.read_html(source)
-# print(dfs)
+print(dfs)
 eng = dfs[0] # dataframe
-# print(eng)
 
-cols = eng.columns
-
-for i in range(len(eng)):
-  fh.writelines(str([j for j in eng.loc[i].values]).
-                replace('[','').replace(']','').replace("'",""))
-  fh.writelines('\n')
-
-fh.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+icao ={}
+icao[eng.iloc[11]['Airport name'][0]] = [eng.iloc[11]['ICAO'][0]][0]
+print(icao['Wickenby Aerodrome'])
