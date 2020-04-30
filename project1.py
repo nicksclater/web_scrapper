@@ -17,11 +17,11 @@ def news_scrap(input_url: str):
 
   main_text = ''
   for i in body.find_all('p'):
-    main_text = main_text + i.text + ' '
+    if len(i.text) > 60:
+      main_text = main_text + i.text + ' '
 
-  print(title)
-  print(date)
-  print(main_text)
+  return {'title': title, 'date': date, 'main_text': main_text}
 
+result = news_scrap(url)
 
-news_scrap(url)
+print(result)
