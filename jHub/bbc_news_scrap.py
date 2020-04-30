@@ -25,16 +25,12 @@ def news_scrap(input_url: str):
     else:
       date = 'not found'
 
-  main_text = ''
+  content = ''
   for i in body.find_all('p'):
     if len(i.text) > 60:
-      main_text = main_text + i.text.replace("\"", '').replace("\n", '')
+      content = content + i.text.replace("\"", '').replace("\n", '')
 
-  result = {'title': title, 'date': date, 'main_body': main_text}
-
+  result = {'title': title, 'date': date, 'content': content}
 
   return result
 
-
-# x = news_scrap('https://www.bbc.co.uk/news/uk-52378491')
-# print(x)
