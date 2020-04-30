@@ -23,7 +23,7 @@ def news_scrap(input_url: str):
       date = k.get('data-datetime')
       break
     else:
-      date = 'fail'
+      date = 'not found'
 
   main_text = ''
   for i in body.find_all('p'):

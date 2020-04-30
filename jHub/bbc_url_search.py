@@ -6,19 +6,28 @@ import bs4
 
 
 def search_urls():
+
   url_list = []
   search_term = input('Enter search term: ')
-  sauce = urllib.request.urlopen(f'https://www.bbc.co.uk/search?q={search_term}')
-  soup = bs4.BeautifulSoup(sauce, 'html.parser')
-  body = soup.body
+  returns = int(input('enter number of returns: '))
 
-  for i in body.find_all('a'):
-    for j in i.find_all('span'):
-      if  (j.get('aria-hidden')) == 'false':
-        url_list.append(i.get('href'))
+  for n in range(1,5):
+
+    if len(url_list) >= returns:
+      break
+
+    page = urllib.request.urlopen(f'https://www.bbc.co.uk/search?q={search_term}&page={n}')
+    soup = bs4.BeautifulSoup(page, 'html.parser')
+    body = soup.body
+
+    while len(url_list) < returns:
+
+      for i in body.find_all('a'):
+        for j in i.find_all('span'):
+          if  (j.get('aria-hidden')) == 'false' and len(url_list) < returns:
+            url_list.append(i.get('href'))
 
   return url_list
-
 
 
 if __name__ == '__main__':
