@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 25 10:23:33 2020
 
-@author: nicksclater1
-"""
 
 import urllib.request
 import bs4
