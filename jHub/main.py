@@ -9,6 +9,7 @@ from bbc_news_scrap import news_scrap
 
 def grab_news():
 
+  file_name = input('enter filename: ')
   results = {}
   urls = search_urls()
 
@@ -17,10 +18,10 @@ def grab_news():
 
   json_obj = json.dumps(results, indent=4)
 
-  with open("RAF.json", "w") as outfile:
+  with open(f"{file_name}.json", "w") as outfile:
     outfile.write(json_obj)
 
-
+  
   return results
 
 
