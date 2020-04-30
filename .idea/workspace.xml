@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c48d2b86-2f6a-46c9-9e04-212038fbb9c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/url_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jHub/bbc_url_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jHub/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jHub/bbc_news_scrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/jHub/bbc_news_scrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jHub/url_search.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,8 +33,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.url_search">
-    <configuration name="project1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jHub" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bbc_url_search">
+    <configuration name="bbc_news_scrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="web_scrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jHub/bbc_news_scrap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="url_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bbc_url_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="web_scrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +72,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/url_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jHub/bbc_url_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_scrapper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jHub" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jHub/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,8 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.url_search" />
-        <item itemvalue="Python.project1" />
+        <item itemvalue="Python.bbc_url_search" />
+        <item itemvalue="Python.bbc_news_scrap" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -88,22 +124,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1248" height="279" key="GridCell.Tab.0.bottom" timestamp="1588237416830">
+    <state width="1248" height="279" key="GridCell.Tab.0.bottom" timestamp="1588243437533">
       <screen x="0" y="23" width="1280" height="719" />
     </state>
-    <state width="1248" height="279" key="GridCell.Tab.0.bottom/0.23.1280.719@0.23.1280.719" timestamp="1588237416830" />
-    <state width="1248" height="279" key="GridCell.Tab.0.center" timestamp="1588237416829">
+    <state width="1248" height="279" key="GridCell.Tab.0.bottom/0.23.1280.719@0.23.1280.719" timestamp="1588243437533" />
+    <state width="1248" height="279" key="GridCell.Tab.0.center" timestamp="1588243437532">
       <screen x="0" y="23" width="1280" height="719" />
     </state>
-    <state width="1248" height="279" key="GridCell.Tab.0.center/0.23.1280.719@0.23.1280.719" timestamp="1588237416829" />
-    <state width="1248" height="279" key="GridCell.Tab.0.left" timestamp="1588237416829">
+    <state width="1248" height="279" key="GridCell.Tab.0.center/0.23.1280.719@0.23.1280.719" timestamp="1588243437532" />
+    <state width="1248" height="279" key="GridCell.Tab.0.left" timestamp="1588243437532">
       <screen x="0" y="23" width="1280" height="719" />
     </state>
-    <state width="1248" height="279" key="GridCell.Tab.0.left/0.23.1280.719@0.23.1280.719" timestamp="1588237416829" />
-    <state width="1248" height="279" key="GridCell.Tab.0.right" timestamp="1588237416830">
+    <state width="1248" height="279" key="GridCell.Tab.0.left/0.23.1280.719@0.23.1280.719" timestamp="1588243437532" />
+    <state width="1248" height="279" key="GridCell.Tab.0.right" timestamp="1588243437533">
       <screen x="0" y="23" width="1280" height="719" />
     </state>
-    <state width="1248" height="279" key="GridCell.Tab.0.right/0.23.1280.719@0.23.1280.719" timestamp="1588237416830" />
+    <state width="1248" height="279" key="GridCell.Tab.0.right/0.23.1280.719@0.23.1280.719" timestamp="1588243437533" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1588234785917">
       <screen x="0" y="23" width="1280" height="719" />
     </state>

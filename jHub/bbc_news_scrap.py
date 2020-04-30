@@ -1,4 +1,5 @@
 #! usr/local/bin/python3
+
 import bs4
 import urllib.request
 import json
@@ -7,6 +8,7 @@ url = 'https://www.bbc.co.uk/news/technology-52458759'
 url2 = 'https://www.bbc.co.uk/search?q=RAF'
 
 def search_urls():
+  result = {}
   search_term = input('Enter search term: ')
 
   sauce = urllib.request.urlopen(f'https://www.bbc.co.uk/search?q={search_term}')
@@ -30,12 +32,12 @@ def news_scrap(input_url: str):
     if len(i.text) > 60:
       main_text = main_text + i.text.replace("\"", '')
 
-  result = {title: {'url': input_url, 'date': date, 'main_body': main_text}}
-  result = json.dumps(result, indent=4,)
-
+  result[title] = {'url': input_url, 'date': date, 'main_body': main_text}
+  #result = json.dumps(result, indent=4,)
 
   return result
 
-result = news_scrap(url2)
 
-print(result)
+if __name__ == '__main__':
+  result = news_scrap(url)
+  print(result)
