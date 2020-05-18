@@ -31,6 +31,7 @@ def news_scrap(input_url: str):
       content = content + i.text.replace("\"", '').replace("\n", '')
 
   result = {'title': title, 'date': date, 'content': content}
+  print(result)
 
   return result
 

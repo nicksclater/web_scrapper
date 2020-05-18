@@ -26,9 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c48d2b86-2f6a-46c9-9e04-212038fbb9c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/web_scrapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web_scrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jHub/iphone.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jHub/single_file" beforeDir="false" afterPath="$PROJECT_DIR$/jHub/single_file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jHub/bbc_news_scrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/jHub/bbc_news_scrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jHub/bbc_url_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/jHub/bbc_url_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <recent name="$PROJECT_DIR$/jHub" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.single_file">
+  <component name="RunManager" selected="Python.main">
     <configuration name="bbc_news_scrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="web_scrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,8 +181,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.single_file" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.single_file" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.bbc_news_scrap" />
         <item itemvalue="Python.bbc_url_search" />
@@ -241,22 +242,22 @@
       <screen x="0" y="23" width="1280" height="719" />
     </state>
     <state x="354" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.719@0.23.1280.719" timestamp="1588261701059" />
-    <state width="1248" height="207" key="GridCell.Tab.0.bottom" timestamp="1588262376462">
+    <state width="1248" height="207" key="GridCell.Tab.0.bottom" timestamp="1588353398018">
       <screen x="0" y="23" width="1280" height="719" />
     </state>
-    <state width="1248" height="207" key="GridCell.Tab.0.bottom/0.23.1280.719@0.23.1280.719" timestamp="1588262376462" />
-    <state width="1248" height="207" key="GridCell.Tab.0.center" timestamp="1588262376461">
+    <state width="1248" height="207" key="GridCell.Tab.0.bottom/0.23.1280.719@0.23.1280.719" timestamp="1588353398018" />
+    <state width="1248" height="207" key="GridCell.Tab.0.center" timestamp="1588353398016">
       <screen x="0" y="23" width="1280" height="719" />
     </state>
-    <state width="1248" height="207" key="GridCell.Tab.0.center/0.23.1280.719@0.23.1280.719" timestamp="1588262376461" />
-    <state width="1248" height="207" key="GridCell.Tab.0.left" timestamp="1588262376460">
+    <state width="1248" height="207" key="GridCell.Tab.0.center/0.23.1280.719@0.23.1280.719" timestamp="1588353398016" />
+    <state width="1248" height="207" key="GridCell.Tab.0.left" timestamp="1588353398016">
       <screen x="0" y="23" width="1280" height="719" />
     </state>
-    <state width="1248" height="207" key="GridCell.Tab.0.left/0.23.1280.719@0.23.1280.719" timestamp="1588262376460" />
-    <state width="1248" height="207" key="GridCell.Tab.0.right" timestamp="1588262376461">
+    <state width="1248" height="207" key="GridCell.Tab.0.left/0.23.1280.719@0.23.1280.719" timestamp="1588353398016" />
+    <state width="1248" height="207" key="GridCell.Tab.0.right" timestamp="1588353398017">
       <screen x="0" y="23" width="1280" height="719" />
     </state>
-    <state width="1248" height="207" key="GridCell.Tab.0.right/0.23.1280.719@0.23.1280.719" timestamp="1588262376461" />
+    <state width="1248" height="207" key="GridCell.Tab.0.right/0.23.1280.719@0.23.1280.719" timestamp="1588353398017" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1588249621798">
       <screen x="0" y="23" width="1280" height="719" />
     </state>

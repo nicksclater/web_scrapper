@@ -26,7 +26,7 @@ def search_urls():
         for j in i.find_all('span'):
           if  (j.get('aria-hidden')) == 'false' and len(url_list) < returns:
             url_list.append(i.get('href'))
-
+  print(url_list)
   return url_list
 
 
