@@ -6,13 +6,15 @@ import  urllib.request
 import pandas as pd
 
 source = 'https://www.notaminfo.com/metars?icao=EGXW'
+
+
 sauce = urllib.request.urlopen(source).read()
 
 soup = bs4.BeautifulSoup(sauce, 'html.parser')
 table = soup.table
 # print(table)
 
-table_row = table.find_all('tr')
+# table_row = table.find_all('tr')
 
 # for tr in table_row:
 #   td = tr.find_all('td')

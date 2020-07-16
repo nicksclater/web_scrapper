@@ -3,6 +3,7 @@
 import urllib.request
 import bs4
 import json
+import nltk
 
 #-----copy from here to-----
 def news_scrap(url):
@@ -31,8 +32,42 @@ def news_scrap(url):
 
     return results_json
 
+
+
+
+def extract_entities(string):
+
+    tagger = nltk.pos_tag(string.split())
+    chucker = nltk.ne_chunk(tagger)
+    tmp = {'people':[], 'places':[], 'organisation':[]}
+
+    for i in chucker:
+
+        if isinstance(i, nltk.tree.Tree):
+            print(i)
+            if i.label() == 'PERSON':
+                tmp['people'] = i[0][0]
+            if i.label() == ('GPE' or 'LOCATION'):
+                tmp['places'] = i[0][0]
+            if i.label() == 'ORGANIZATION':
+                tmp['organisation'] = i[0][0]
+
+    entities_json = json.dumps(tmp, indent=4)
+
+    return entities_json
+
 ##---to here---
 
 test = news_scrap('https://www.bbc.co.uk/news/uk-51004218')
 
 print(test)
+
+test1 = 'My name is Nick and I live in England and work for the RAF'
+test2 = "My name is Charlotte and I live in Heighington"
+test3 = 'I work for the Council'
+
+test_cases = [test1, test2, test3]
+
+for test in test_cases:
+    res = extract_entities(test)
+    print(res)

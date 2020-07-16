@@ -14,7 +14,7 @@ def extract_entities(string):
         if isinstance(i, nltk.tree.Tree):
             if i.label() == 'PERSON':
                 tmp['people'] = i[0][0]
-            elif i.label() == 'GPE':
+            elif i.label() == ('GPE' or 'LOCATION'):
                 tmp['places'] = i[0][0]
             elif i.label() == 'ORGANIZATION':
                 tmp['organisation'] = i[0][0]
@@ -26,7 +26,7 @@ def extract_entities(string):
 
 
 test1 = 'My name is Charlotte'
-test2 = "In live in Heighington"
+test2 = "I live in Heighington"
 test3 = 'I work for the Council'
 
 test_cases = [test1, test2, test3]
