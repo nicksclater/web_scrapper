@@ -4,6 +4,9 @@ import urllib.request
 import bs4
 import json
 import nltk
+nltk.download('averaged_perceptron_tagger')
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
 
 #-----copy from here to-----
 def news_scrap(url):
