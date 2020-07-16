@@ -4,6 +4,8 @@ import bs4
 import urllib.request
 import json
 
+# f'https://www.bbc.co.uk/search?q={search_term}'
+
 def search_urls():
   result = {}
   search_term = input('Enter search term: ')
@@ -11,9 +13,9 @@ def search_urls():
   sauce = urllib.request.urlopen(f'https://www.bbc.co.uk/search?q={search_term}')
 
 
-def news_scrap(input_url: str):
+def news_scrap(url):
   result = {}
-  sauce = urllib.request.urlopen(input_url).read()
+  sauce = urllib.request.urlopen(url).read()
   soup = bs4.BeautifulSoup(sauce, 'html.parser')
   body = soup.body
   title = body.h1.text
@@ -30,8 +32,11 @@ def news_scrap(input_url: str):
     if len(i.text) > 60:
       content = content + i.text.replace("\"", '').replace("\n", '')
 
-  result = {'title': title, 'date': date, 'content': content}
-  print(result)
+  results_json = {'url': url, 'title': title, 'date': date, 'content': content}
 
-  return result
+
+  return results_json
+
+test = news_scrap('https://www.bbc.co.uk/news/uk-51004218')
+
 
